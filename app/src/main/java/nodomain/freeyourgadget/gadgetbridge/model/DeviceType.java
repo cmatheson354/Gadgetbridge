@@ -430,6 +430,7 @@ public enum DeviceType {
     BOHEMIC_SMART_BRACELET(BohemicSmartBraceletDeviceCoordinator.class),
     SMAQ2OSS(SMAQ2OSSCoordinator.class),
     FITPRO(FitProDeviceCoordinator.class),
+    GLORYFIT_T70(nodomain.freeyourgadget.gadgetbridge.devices.gloryfit.GloryFitCoordinator.class),
     COLACAO21(ColaCao21Coordinator.class),
     COLACAO23(ColaCao23Coordinator.class),
     ITAG(ITagCoordinator.class),
